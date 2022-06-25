@@ -479,7 +479,7 @@ button img{
 .feedback{
     display: flex;
     flex-direction: column;
-    /* background: rgba(8, 8, 8, 1); */
+    background: rgba(8, 8, 8, 1);
     align-self: center;
 }
 
@@ -742,7 +742,7 @@ article{
 
 main{
     margin: 0 auto;
-    max-width: 920px;
+    background: rgba(8, 8, 8, 1);
 }
 
 .avatar-info{
@@ -887,7 +887,7 @@ main{
     border-radius: 50%;
     position: absolute;
     padding: 11px;
-    margin-left: 10px;
+    margin-left: 400px;
     margin-top: 200px;
 }
 
@@ -900,7 +900,7 @@ form button{
 }
 
 .feedback{
-    max-width: 920px;
+    width: 100%;
 }
 
 }
