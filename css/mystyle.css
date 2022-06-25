@@ -875,8 +875,8 @@ main{
     border-radius: 50%;
     position: absolute;
     padding: 11px;
-    margin-left: 25px;
-    margin-top: 280px;
+    margin-left: -40px;
+    margin-top: 200px;
 }
 
 .arrow2{
@@ -900,7 +900,7 @@ form button{
 }
 
 .feedback{
-    width: 90%;
+    width: 88%;
 }
 
 }
