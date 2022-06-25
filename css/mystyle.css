@@ -38,7 +38,7 @@ body{
     width: 100%;
 }
 
-nav ul li a{
+nav li a{
     color: rgba(156, 156, 156, 1);
     line-height: 18px;
     letter-spacing: 3px;
@@ -898,14 +898,17 @@ form input, textarea, button{
 form button{
     width: 350px;
 }
-
 .feedback{
-    width: 88%;
+    width: 100%;
 }
 
 }
 
 @media (min-width: 900px) {
+
+.navbar li{
+    margin-left: 50px;
+}
 
 .container p{
     width: 421px;
