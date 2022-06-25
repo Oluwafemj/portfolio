@@ -904,3 +904,14 @@ form button{
 }
 
 }
+
+@media (min-width: 900px) {
+
+.container p{
+    width: 421px;
+}
+
+.container figure img {
+    width: 445px;
+}
+}
