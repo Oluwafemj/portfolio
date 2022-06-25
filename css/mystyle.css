@@ -874,7 +874,7 @@ main{
     border: 1px solid rgba(156, 156, 156, 1);
     border-radius: 50%;
     position: absolute;
-    padding: 12px;
+    padding: 11px;
     margin-left: 25px;
     margin-top: 280px;
 }
@@ -900,7 +900,7 @@ form button{
 }
 
 .feedback{
-    width: 100%;
+    width: 80%;
 }
 
 }
